@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/ask-DD16-ey/P2PCameraSDK_iOS"
   spec.license      = "MIT"
   spec.author             = { "ask-DD16-ey" => "askey.dd16@gmail.com" }
-  spec.platform     = :ios, "9.0"
+  spec.platform     = :ios, "10.0"
   spec.source       = { :git => "https://github.com/ask-DD16-ey/P2PCameraSDK_iOS.git", :tag => "#{spec.version}" }
   spec.source_files  = "CameraSDK.framework/Headers/*.{h}"
   #spec.requires_arc = true
