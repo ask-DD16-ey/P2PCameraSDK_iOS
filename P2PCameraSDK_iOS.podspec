@@ -17,10 +17,10 @@ Pod::Spec.new do |spec|
 
   spec.name         = "P2PCameraSDK"
   spec.version      = "1.0.17"
-  spec.summary      = "A marquee view used on iOS"
+  spec.summary      = "Camera SDK used on iOS"
 
   spec.description  = <<-DESC
-                   It is a marquee view used on iOS, which implement by Objective-C.
+                   It is a Camera SDK used on iOS, which implement by Objective-C.
                    DESC
   spec.homepage     = "https://github.com/ask-DD16-ey/P2PCameraSDK_iOS"
   spec.license      = "MIT"
