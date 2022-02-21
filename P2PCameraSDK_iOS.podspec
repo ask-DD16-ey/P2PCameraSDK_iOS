@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "P2PCameraSDK"
+  spec.name         = "P2PCameraSDK_iOS"
   spec.version      = "1.0.17"
   spec.summary      = "Camera SDK used on iOS"
 
