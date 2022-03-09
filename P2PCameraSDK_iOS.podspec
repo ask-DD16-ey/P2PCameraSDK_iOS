@@ -32,4 +32,5 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = 'CameraSDK.framework'
   spec.frameworks = 'Foundation'
   spec.libraries = 'z.1.2.11', 'iconv.2.4.0', 'bz2.1.0'
+  spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
 end
