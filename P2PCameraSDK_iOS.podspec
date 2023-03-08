@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "P2PCameraSDK_iOS"
-    spec.version      = "1.0.18.beta.7"
+  spec.version      = "1.0.19"
   spec.summary      = "Camera SDK used on iOS"
   spec.description  = <<-DESC
                     It is a Camera SDK used on iOS, which implement by Objective-C.
